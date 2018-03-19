@@ -1,0 +1,11 @@
+C:\Users\Shamrat\Documents\SHETU\shetu\ReactStart\ReactStart\bin\Debug\netcoreapp2.0\ReactStart.deps.json
+C:\Users\Shamrat\Documents\SHETU\shetu\ReactStart\ReactStart\bin\Debug\netcoreapp2.0\ReactStart.runtimeconfig.json
+C:\Users\Shamrat\Documents\SHETU\shetu\ReactStart\ReactStart\bin\Debug\netcoreapp2.0\ReactStart.runtimeconfig.dev.json
+C:\Users\Shamrat\Documents\SHETU\shetu\ReactStart\ReactStart\bin\Debug\netcoreapp2.0\ReactStart.dll
+C:\Users\Shamrat\Documents\SHETU\shetu\ReactStart\ReactStart\obj\Debug\netcoreapp2.0\ReactStart.csproj.CoreCompileInputs.cache
+C:\Users\Shamrat\Documents\SHETU\shetu\ReactStart\ReactStart\obj\Debug\netcoreapp2.0\ReactStart.AssemblyInfoInputs.cache
+C:\Users\Shamrat\Documents\SHETU\shetu\ReactStart\ReactStart\obj\Debug\netcoreapp2.0\ReactStart.AssemblyInfo.cs
+C:\Users\Shamrat\Documents\SHETU\shetu\ReactStart\ReactStart\bin\Debug\netcoreapp2.0\ReactStart.pdb
+C:\Users\Shamrat\Documents\SHETU\shetu\ReactStart\ReactStart\obj\Debug\netcoreapp2.0\ReactStart.dll
+C:\Users\Shamrat\Documents\SHETU\shetu\ReactStart\ReactStart\obj\Debug\netcoreapp2.0\ReactStart.pdb
+C:\Users\Shamrat\Documents\SHETU\shetu\ReactStart\ReactStart\obj\Debug\netcoreapp2.0\ReactStart.csprojResolveAssemblyReference.cache
